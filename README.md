@@ -7,5 +7,9 @@ The editor used by Alura was the **[p5.js Web Editor](https://editor.p5js.org)**
 In my case, I used the **Visual Studio Code** editor combined with **WAMP**.
 
 
+![Certification](/image/Certificado.png)
+
+
+
 All Images and Sounds used in this game were provided by Alura.
 
